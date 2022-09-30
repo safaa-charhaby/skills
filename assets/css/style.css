@@ -263,7 +263,7 @@ h6 {
 .mobile-nav-active #header {
   left: 0;
   background: #45505b;
-  width: 110;
+  width: 100%;
 }
 
 .mobile-nav-active .mobile-nav-toggle {
