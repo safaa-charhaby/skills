@@ -233,7 +233,7 @@ h6 {
 */
 .mobile-nav{
   display: block;
-  margin-left: 120px;
+  margin-left: 110px;
 }
 .mobile-nav-toggle {
   position: fixed;
@@ -263,6 +263,7 @@ h6 {
 .mobile-nav-active #header {
   left: 0;
   background: #45505b;
+  width: 110;
 }
 
 .mobile-nav-active .mobile-nav-toggle {
