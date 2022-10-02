@@ -231,7 +231,7 @@ h6 {
 /**
 * Mobile Navigation 
 */
-.mobile-nav{
+.mobile-nav * {
   display: block;
   margin-left: 110px;
 }
